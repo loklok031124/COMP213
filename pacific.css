@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+body {
+    background-color: #ffffff;
+    color: #666666;
+}
+header{
+    background-color: #000033;
+    color: #ffffff;
+}
+h1{
+    margin-bottom:0px;
+}
+nav {
+    background-color: #90C7E3;
+}
+h2 {
+    color:#000033;
+}
+.resort{
+    color: #5c7fa3;
+=======
+body{
+    background-color:#FFFFFF;
+    color:#666666;
+}
+
+header{
+    background-color:#000033;
+    color:#FFFFFF;
+}
+
+h1{
+    margin-bottom:0px;
+}
+
+nav {
+    background-color:#90C7E3;
+}
+
+h2{
+    color:#000033;
+}
+
+.resort{
+    color:#5C7FA3;
+>>>>>>> 5e89ab9e0e0ac1c23367cd24eca4d56c0a9297e0
+}
