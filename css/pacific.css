@@ -44,6 +44,12 @@ nav ul{
     padding-left: 0px;
 }
 
+nav a {
+    transition-property: color;
+    transition-duration: 3s;
+    transition-timing-function: ease-out;
+}
+
 h2,h3{
     color:#000033;
 }
@@ -91,6 +97,8 @@ label,textarea{
 input,textarea{
     margin-bottom:1.5em;
 }
+
+    
 
 .required{
     color: #e61d1d;
@@ -142,6 +150,17 @@ input,textarea{
 
 #mobile{
     display:none;
+}
+
+#thumbnail{
+    display: flex;
+    justify-content: space-around;
+}
+
+#bigImage{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
 }
 
 @media only screen and (max-width: 1024px){
